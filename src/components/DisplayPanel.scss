@@ -1,0 +1,11 @@
+.display-panel {
+  height: 100px;
+  color: white;
+  font-size: 5.5rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  div {
+    padding: 2rem;
+  }
+}
