@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/IOS-Calculator-clone/static/css/main.c8ec594a.chunk.css",
+    "main.js": "/IOS-Calculator-clone/static/js/main.a84f9b6f.chunk.js",
+    "main.js.map": "/IOS-Calculator-clone/static/js/main.a84f9b6f.chunk.js.map",
+    "runtime-main.js": "/IOS-Calculator-clone/static/js/runtime-main.35099765.js",
+    "runtime-main.js.map": "/IOS-Calculator-clone/static/js/runtime-main.35099765.js.map",
+    "static/js/2.cc9bbc03.chunk.js": "/IOS-Calculator-clone/static/js/2.cc9bbc03.chunk.js",
+    "static/js/2.cc9bbc03.chunk.js.map": "/IOS-Calculator-clone/static/js/2.cc9bbc03.chunk.js.map",
+    "index.html": "/IOS-Calculator-clone/index.html",
+    "precache-manifest.aba6777c9b953ae9c118d21b69914255.js": "/IOS-Calculator-clone/precache-manifest.aba6777c9b953ae9c118d21b69914255.js",
+    "service-worker.js": "/IOS-Calculator-clone/service-worker.js",
+    "static/css/main.c8ec594a.chunk.css.map": "/IOS-Calculator-clone/static/css/main.c8ec594a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35099765.js",
+    "static/js/2.cc9bbc03.chunk.js",
+    "static/css/main.c8ec594a.chunk.css",
+    "static/js/main.a84f9b6f.chunk.js"
+  ]
+}
