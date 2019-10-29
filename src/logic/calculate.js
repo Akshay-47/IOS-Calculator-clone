@@ -40,7 +40,20 @@ let calculate = (object, buttonName) => {
       buttonName === "÷" ||
       buttonName === "%"
     ) {
-      return {
+      if (object.next !== 0 && object.operation && object.total) {
+        let res = operate(
+          parseFloat(object.total),
+          parseFloat(object.next),
+          object.operation
+        );
+        return {
+          ...object,
+          operation: buttonName,
+          total: res,
+          next: 0
+        };
+      }
+      else return {
         ...object,
         operation: buttonName,
         total: object.total !== 0 ? object.total : object.next,
